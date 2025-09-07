@@ -2,7 +2,7 @@
 
 char	*ft_strlowcase(char *str)
 {
-	int a;
+	int		a;
 
 	a = 0;
 	while (str[a] != '\0')
