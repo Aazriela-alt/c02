@@ -2,7 +2,7 @@
 
 char	*ft_strupcase(char *str)
 {
-	int a;
+	int		a;
 
 	a = 0;
 	while (str[a] != '\0')

@@ -1,8 +1,6 @@
-#include <stdio.h>
-
-int	ft_str_is_alpha(char *str)
+int		ft_str_is_alpha(char *str)
 {
-	int a;
+	int		a;
 	
 	a = 0;
 	while (str[a] != '\0')
